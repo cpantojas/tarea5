@@ -59,6 +59,7 @@ export class DetalleListaProductoComponent implements OnInit {
         this.existeProducto = true;
       }
       return productoCarro;
+
     });
   }
 
